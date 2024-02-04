@@ -4,15 +4,15 @@ To run this script, follow these steps:
 
 1- Clone the repository:
 
-´git clone https://github.com/yourusername/WiFi-TxPower-Tuner.git´
+    git clone https://github.com/yourusername/WiFi-TxPower-Tuner.git
 
 2- Change to the project directory:
 
-´cd WiFi-Adapter-TxPower-Tuner´
+    cd WiFi-Adapter-TxPower-Tuner
 
 3- Install the required packages by running:
 
-´pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 
 **USAGE**
@@ -21,7 +21,7 @@ To use WiFi-Adapter-TxPower-Tuner, follow these instructions:
 
 1- Run the script:
 
-python wifi_txpower_tuner.py
+    python wifi_txpower_tuner.py
 
 2- The script will display the current configuration of your wireless interfaces.
 3- Enter the name of the interface you want to configure (e.g., wlan0).
