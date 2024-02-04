@@ -4,7 +4,7 @@ To run this script, follow these steps:
 
 1- Clone the repository:
 
-    git clone https://github.com/yourusername/WiFi-TxPower-Tuner.git
+    git clone https://github.com/omersayak/WiFi-Adapter-TxPower-Tuner.git
 
 2- Change to the project directory:
 
