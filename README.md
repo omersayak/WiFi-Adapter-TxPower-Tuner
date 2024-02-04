@@ -4,15 +4,15 @@ To run this script, follow these steps:
 
 1- Clone the repository:
 
-git clone https://github.com/yourusername/WiFi-TxPower-Tuner.git
+´git clone https://github.com/yourusername/WiFi-TxPower-Tuner.git´
 
 2- Change to the project directory:
 
-cd WiFi-Adapter-TxPower-Tuner
+´cd WiFi-Adapter-TxPower-Tuner´
 
 3- Install the required packages by running:
 
-pip install -r requirements.txt
+´pip install -r requirements.txt`
 
 
 **USAGE**
